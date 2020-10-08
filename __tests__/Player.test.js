@@ -86,4 +86,4 @@ test('creates a player object', () => {
     expect(player.inventory.length).toBeLessThan(oldCount);
   });
 
-  
+
